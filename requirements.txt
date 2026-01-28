@@ -8,3 +8,5 @@ gspread-dataframe>=1.0.0
 google-auth>=2.0.0
 pygsheets>=2.0.0
 datawrapper>=0.3.0
+seaborn 
+matplotlib 
